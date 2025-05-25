@@ -5,9 +5,16 @@
 
 Илија Ристов, бр. на индекс 233163
 
+---
 
 Control Flow Graph
-Фотографија од control flow graph-от
+Фотографии од control flow graph-от
+
+![Slika1](https://github.com/user-attachments/assets/015be6fe-ce5c-420b-a61f-3bb8efdcea32)
+![Slika2](https://github.com/user-attachments/assets/24731cca-cfe8-44f9-963a-05b2e6e9f202)
+
+
+---
 
 Цикломатска комплексност
 Цикломатската комплексност на овој код е 7, добиена преку формулата:
